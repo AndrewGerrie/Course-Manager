@@ -1,7 +1,7 @@
 Course-Manager
 ==============
 
-A project to make an iPad application to manager youtube courses.
+A project to make an iPad application to manage youtube courses.
 
 App overview -
 
